@@ -3,7 +3,9 @@
 int main(){
 
 
-	printf("hello world\n");
+	printf("lijunxinb\n");
+	int a = 5;
+	printf("%d\n",a);
 	return 0;
 }
 
