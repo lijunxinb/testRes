@@ -2,9 +2,9 @@
 
 * 测试是否关联过 ssh -T git@github.com
 * 修改本地配置文件，在配置文件中添加两项
- * 查看配置项 git config --list
- * 添加配置项 git config --global user.name "用户名"
- * 添加配置项 git config --global user.email "邮箱"
+  * 查看配置项 git config --list
+  * 添加配置项 git config --global user.name "用户名"
+  * 添加配置项 git config --global user.email "邮箱"
 * 修改本机密钥RSA ssh-keygen -t rsa -C "邮箱"
 * 找到密钥位置，复制密文，粘贴到网站账户中的对应位置，就完成认证
 
